@@ -1,21 +1,24 @@
 # Descrição do projeto
 
-O objetivo do projeto é realizar uma itensa Exploração de dados - Exploratory Data Analysis - EDA
+O projeto realiza uma análise completa ( Importação - Relações - Exploração - Insights - Monitoramento ) apenas utilizando o Power BI com o objetivo de aprimorar as habilidades na plataforma.
 
-## Inspiration
-Os "inshigts" obtidos através da análises de interações das pessoas com os aplicativos disponíves na Google Play Store são altamente relevantes para aquelas empresas que buscam não apenas atributos para seus novos Apps como também direcionar seus esforços e obter um posicionamento estratégico.
 
 ## Etapas
-![image](https://github.com/JanielS/Store_App_EDA/blob/main/Images/Diagram_AppStore.png)<br>
+![image](https://github.com/JanielS/Vendas_Dashboard/blob/main/images/Diagram_SalesPowerBI.png)<br>
 *fonte: autor*
 <br>
 <br>
 
-1. A base de dados pode ser encontrada no [kaggle.](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
-
+> Boas práticas
+1. Ao trabalhar com tabelas fatos como ( Vendas-2021, Vendas-2022... ), vale apena importá-las juntas em uma única pasta e aplicar um filtro no PowerBI afim de facilitar a importação de novas atualizações e evitar problemas.
+2. Cuidado com as datas, leve em consideração criar uma outra tabela apenas para elas.
+3. Para tratar com localidades, configure o Power BI para entender o tipo do dado e crie hierarquias.
+4. Criar uma tabela apenas para as métricas ajuda muito na organização
+5. Antes de montar qualquer gráfico, reflita sobre qual a mensagem que você deseja enfatizar com ele.
+6. No Power BI, por padrão, todos os gráficos são gerados com o valor mínimo do eixo y como "Auto". Em algumas situações isso pode gerar sérios problemas na análises, vale apena defini-lo como 0.
 
 ## Requirements
-A plataforma escolhida doi o Power BI. 
+A plataforma escolhida foi o Power BI. 
 
 ## Links úteis 
 1. Template no [Figma](https://www.figma.com/@janiel_s)
