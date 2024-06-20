@@ -2,6 +2,7 @@
 
 O projeto realiza uma análise completa ( Importação - Relações - Exploração - Insights - Monitoramento ) apenas utilizando o Power BI com o objetivo de aprimorar as habilidades na plataforma.
 
+Interaja com o [Resultado Final](https://app.powerbi.com/view?r=eyJrIjoiMTk0NWZlYWItNjZkNS00MzI0LWExYTktZjA2YWY0MmRlNWM5IiwidCI6IjgyZjIwOWFmLWI2MWItNDdmMy04OGE2LWNjNDJlMGQ3ZGE3MyJ9&pageName=4db53105819472bb233a)
 
 ## Etapas
 ![image](https://github.com/JanielS/Vendas_Dashboard/blob/main/images/Diagram_SalesPowerBI.png)<br>
@@ -22,7 +23,6 @@ A plataforma escolhida foi o Power BI.
 
 ## Links úteis 
 1. Template no [Figma](https://www.figma.com/@janiel_s)
-2. Interaja com o [Resultado Final](https://app.powerbi.com/view?r=eyJrIjoiMTk0NWZlYWItNjZkNS00MzI0LWExYTktZjA2YWY0MmRlNWM5IiwidCI6IjgyZjIwOWFmLWI2MWItNDdmMy04OGE2LWNjNDJlMGQ3ZGE3MyJ9&pageName=4db53105819472bb233a)
 
 ## Autor
 > Janiel Santos. - [Github](https://github.com/JanielS) - Maio 2024
